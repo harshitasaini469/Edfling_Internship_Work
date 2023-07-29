@@ -10,7 +10,7 @@ const Mentors = (props) => {
       <h3 className="text-lg md:text-2xl text-center text-teal-800 text-opacity-70 mb-4">
         Our mentor comes from IIT & NIT and India’s Best Collegees
       </h3>
-      <div className="grid grid-cols-1 gap-2 sm:grid-cols-1 lg:grid-cols-2">
+      <div className="grid md:grid-cols-2 gap-2 sm:grid-cols-1 lg:grid-cols-2">
         {componentData.map((component) => (
           <div
             className="max-w-sm w-full lg:max-w-full lg:flex mb-4 md:mb-3"

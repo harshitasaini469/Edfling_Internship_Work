@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div class="container font-poppins card border border-0 m-2 mb-5 ">
-      <div class="row lg:g-5 mx-md-5">
+      <div class="row lg:g-5 mx-lg-5">
         <div class="col-md-5 me-md-5">
           <img
             src="./about/about-us.png"
