@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Edfling_Internship_Work/static/css/main.7556a90c.css",
+    "main.js": "/Edfling_Internship_Work/static/js/main.6e19b961.js",
+    "index.html": "/Edfling_Internship_Work/index.html",
+    "main.7556a90c.css.map": "/Edfling_Internship_Work/static/css/main.7556a90c.css.map",
+    "main.6e19b961.js.map": "/Edfling_Internship_Work/static/js/main.6e19b961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7556a90c.css",
+    "static/js/main.6e19b961.js"
+  ]
+}
