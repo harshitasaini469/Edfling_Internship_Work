@@ -48,7 +48,7 @@ const Mentors = (props) => {
                   </div>
                   <div className="flex items-center lg:items-start space-x-1 ">
                     <div className="font-bold">4.5</div>
-                    <img src="/mentors/Star.png" alt="" />
+                    <img src="./mentors/Star.png" alt="" />
                     <div>Rating</div>
                     <div>({component.reviews}+ Reviews)</div>
                   </div>
