@@ -4,10 +4,11 @@ import Mentors from "./components/Mentors";
 
 function App() {
   return (
-    <div className="container">
-      <About />
-      <div></div>
-      <Mentors componentData={componentData} />
+    <div className="App">
+      {/* <About />
+      <Mentors componentData={componentData} /> */}
+         <Sidebar />
+      <AskDoubt />
     </div>
   );
 }
